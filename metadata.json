@@ -1,0 +1,8 @@
+{
+  "name": "CIS Job Application Tailor & ATS Tracker",
+  "description": "Tailor CIS resume bullets, generate 3-paragraph tone-adapted cover letters with ground-truth guardrails, flag missing skills, and track applications with SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
